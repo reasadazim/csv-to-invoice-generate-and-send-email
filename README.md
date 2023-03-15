@@ -43,4 +43,7 @@
  - PDF invoices will be stored in the invoice directory.
  ## Screenshots
  ![PDF Invoice](https://reasadazim.com/wp-content/uploads/2023/03/Screenshot-2023-03-16-023128.png)
+ 
+ ---
+ 
 ![Email log](https://reasadazim.com/wp-content/uploads/2023/03/Screenshot-2023-03-16-023333-1.png)
